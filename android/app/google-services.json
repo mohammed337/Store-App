@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "117152929550",
+    "firebase_url": "https://store-app-c28ef.firebaseio.com",
+    "project_id": "store-app-c28ef",
+    "storage_bucket": "store-app-c28ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117152929550:android:b166993765afdc9da5295f",
+        "android_client_info": {
+          "package_name": "com.melsamman.calculator_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117152929550-a97aj8558cmmqdvlmt55hdkhsiuhjq4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melsamman.calculator_app",
+            "certificate_hash": "df6bf4c4ec818ad4341b86b17b27927140e3bf75"
+          }
+        },
+        {
+          "client_id": "117152929550-tnp24kbekf731ln7ch7snk7vbvp4ch27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgTajNVqItouhyi4bkFU8ODktS9r9AW7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117152929550-tnp24kbekf731ln7ch7snk7vbvp4ch27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
